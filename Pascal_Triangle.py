@@ -1,6 +1,6 @@
 # Python Program to implement Pascal's Triangle
 # 
-# Pascal's triangle is a triangular array constructed by summing adjacent elements in preceding rows
+# Pascal's triangle is a triangular array constructed by summing adjacent elements in preceding rows.
 # 
 # 
 
